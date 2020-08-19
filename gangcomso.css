@@ -1,0 +1,28 @@
+h1{
+    font-size: 2em;
+    padding-bottom: 5px;
+    border-bottom: 3px solid peru;
+    margin: 30px;
+}
+nav{
+    padding: 10px;
+    border: 3px dotted goldenrod;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+    margin: 15px;
+}
+body {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("img.jpg");
+    background-size: cover;
+    }
+span{
+    font-weight: bold;
+}
+dt{
+    font-weight: bold;
+    color: saddlebrown;
+    font-size: 20px;
+}
